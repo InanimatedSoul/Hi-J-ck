@@ -1,0 +1,4 @@
+ren *.txt *.aaa
+ren *.pdf *.ccc
+ren *.docx *.bbb
+ren *.png *.vvv
